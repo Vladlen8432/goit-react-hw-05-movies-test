@@ -1,0 +1,12 @@
+.headerContainer {
+    display: flex;
+    gap: 20px;
+    padding: 20px 0 20px 40px;
+    background-color: rgb(238, 225, 197);
+}
+
+.headerNav {
+    text-decoration: none;
+    font-size: 26px;
+    color: #2e2e2e;
+}
